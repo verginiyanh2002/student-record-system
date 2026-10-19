@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-// ============================================================
+// ===========================================================
 // PART 1: DOMAIN TYPES - enum, exception, Student (ADT), repository interface
-// ============================================================
+// ===========================================================
 
 // DATA TYPE: an enumeration - a named set of constants.
 enum StudentStatus { Active, OnLeave, Graduated }
